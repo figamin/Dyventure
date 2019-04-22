@@ -7,7 +7,7 @@ Unfinished Python text adventure
 ## Note:
 I may eventually redo this as a "proper" project.
 ## Gameplay:
-'''
+```
 You have defeated the Cube !
 You have gained 1 experience
 Current Exp
@@ -32,4 +32,4 @@ Your current health is 0 .
 The Crow has 3 HP
 
 View inventory? (yes/no)
-'''
+```
